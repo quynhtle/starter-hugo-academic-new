@@ -34,7 +34,9 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Quynh Le is currently working with [Dr. Binh-Son Hua](https://sonhua.github.io/) as a Research Resident at VinAI Research, the [first AI research lab in Vietnam](https://www.vinai.io/) with a focus on fundamental research. Her research focuses on solving practical problems using computer vision and deep learning. Her current research interests include building efficient systems for 3D object detection and 3D data annotation. She is also interested in data-centric approaches in machine learning, and computational photography. She is actively looking for a Ph.D. position starting in 2022. 
+Quynh Le is currently working with [Dr. Binh-Son Hua](https://sonhua.github.io/) as a Research Resident at VinAI Research, the [first AI research lab in Vietnam](https://www.vinai.io/) with a focus on fundamental research. Her research focuses on solving practical problems using computer vision and deep learning.
+
+She is actively looking for a Ph.D. position starting in 2022. 
 
 
 
