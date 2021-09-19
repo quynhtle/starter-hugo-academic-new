@@ -1,7 +1,7 @@
 ---
 title: Quynh Le
 role: AI Research Resident
-avatar_filename: new-project-2018-04-25-23_10_45.jpg
+avatar_filename: quynhle.jpg
 bio: My research interests generally include computer vision, object detection
   and computational photography.
 interests:
