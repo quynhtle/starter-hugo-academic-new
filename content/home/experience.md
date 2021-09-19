@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Ressearch Resident
+  - title: Research Resident
     company: VinAI Research
     company_url: 'vinai.io'
     company_logo: https://www.vinai.io/wp-content/themes/vinai/assets/images/common/logo_color.png
