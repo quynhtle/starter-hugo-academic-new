@@ -24,7 +24,7 @@ social:
     link: https://www.linkedin.com/in/quynhtle
 organizations:
   - name: VinAI Research
-    url: vinai.io
+    url: www.vinai.io
 education:
   courses:
     - course: BSc. in Marketing - Magna Cum Laude
