@@ -1,49 +1,41 @@
 ---
 title: Quynh Le
 role: AI Research Resident
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: new-project-2018-04-25-23_10_45.jpg
+bio: My research interests generally include computer vision, object detection
+  and computational photography.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - ComputerVision
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/quynhtle
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=qM0cYtIAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/radiangle
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/quynhtle
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: VinAI Research
+    url: vinai.io
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc. in Marketing - Magna Cum Laude
+      institution: California State Polytechnic University
+      year: 2018
 email: ""
 superuser: true
 highlight_name: true
 ---
+Quynh Le is currently working with [Dr. Binh-Son Hua](https://sonhua.github.io/) as a Research Resident at VinAI Research, the [first AI research lab in Vietnam](https://www.vinai.io/) with a focus on fundamental research. Her research focuses on solving practical problems using computer vision and deep learning. Her current research interests include building efficient systems for 3D object detection and 3D data annotation. She is also interested in data-centric approaches in machine learning, and computational photography. She is actively looking for a Ph.D. position starting in 2022. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
